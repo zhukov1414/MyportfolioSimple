@@ -1,9 +1,8 @@
 <div align=center>
   
-# [SimplePortfolioDjango](https://dkushlevich.ddns.net)
+# [SimplePortfolioDjango](https://zhukov1414.pythonanywhere.com)
 
   <div>
-  <img src="https://github.com/dkushlevich/Dkushlevich/blob/main/images/portfolio1.png" style="width:320px;height:800px;">
-  <img src="https://github.com/dkushlevich/Dkushlevich/blob/main/images/portfolio2.png" style="width:320px;height:800px;">
+  <img src="https://github.com/zhukov1414/files/blob/main/2023-09-16_21-37-36.png" style="width:320px;height:800px;">
   </div>
 </div>
